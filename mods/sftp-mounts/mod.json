@@ -1,0 +1,8 @@
+{
+  "place": "none",
+  "title": "SFTP mounts",
+  "overlay": { "kind": "dialog", "width": 640 },
+  "palette": [
+    { "title": "SFTP mounts", "command": "mod.open", "args": { "name": "sftp-mounts" }, "words": "rclone sftp mount remote server ftp" }
+  ]
+}
